@@ -4,7 +4,7 @@ Entrega do projeto "Recriando o jogo Snake Game" da DIO.
 
 Projeto com o desafio de reconstruir o jogo Snake Game utilizando Javascript.
 
-Link: https://ccbeder.github.io/SnakeGame/
+Link: https://ederteixeira.github.io/SnakeGame/
 
 > Site: https://www.digitalinnovation.one/
 
